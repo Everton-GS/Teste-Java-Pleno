@@ -26,7 +26,7 @@
 <h3>Desafio:</h3>
 
 <p>Desenvolver um sistema de gerenciamento de clientes utilizando Java, PostgreSQL e JDBC. 
-<p></p>O candidato deverá implementar as operações básicas de CRUD (Create, Read, Update, Delete) para as tabelas de clientes.
+<p></p>O candidato deverá implementar as operações básicas de CRUD (Create, Read, Update, Delete) para a tabela de cliente.
 
 Recursos Fornecidos:
 
